@@ -1,2 +1,3 @@
 # relaxed-GRPDA
-golden ratio primal-dual algorithm with relaxed parameters
+Golden ratio primal-dual algorithm: relaxed conditions and connection
+to Chambolle-Pock’s primal-dual algorithm
